@@ -1,0 +1,14 @@
+{
+    "screen_height": 1800,
+	"screen_width": 1080,
+	"under_game_score_y": 300,
+    "press_coefficient": 1.2,
+    "piece_base_height_1_2": 20,
+    "piece_body_width": 70,
+    "swipe": {
+        "x1": 500,
+        "y1": 1600,
+        "x2": 500,
+        "y2": 1602
+    }
+}

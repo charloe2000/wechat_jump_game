@@ -1,0 +1,8 @@
+{
+    "screen_height": 1920,
+	"screen_width": 1080,
+	"under_game_score_y": 300, 
+    "press_coefficient": 1.392, 
+    "piece_base_height_1_2": 20, 
+    "piece_body_width": 70
+}
